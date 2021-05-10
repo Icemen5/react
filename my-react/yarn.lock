@@ -2398,8 +2398,8 @@ hoist-non-react-statics@^2.3.1:
   resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-2.5.5.tgz#c5903cf409c0dfd908f388e619d86b9c1174cb47"
 
 hosted-git-info@^2.1.4:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
 
 http-errors@~1.7.2:
   version "1.7.2"
@@ -3844,6 +3844,12 @@ react-is@^16.8.1:
 react-native-branch@2.2.5:
   version "2.2.5"
   resolved "https://registry.yarnpkg.com/react-native-branch/-/react-native-branch-2.2.5.tgz#4074dd63b4973e6397d9ce50e97b57c77a518e9d"
+
+react-native-camera@^2.11.0:
+  version "2.11.2"
+  resolved "https://registry.yarnpkg.com/react-native-camera/-/react-native-camera-2.11.2.tgz#4936bb0a484e8ba7d0b3ecf28fa7c161833b1ac0"
+  dependencies:
+    prop-types "^15.6.2"
 
 react-native-gesture-handler@1.2.1:
   version "1.2.1"
